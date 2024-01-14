@@ -6,6 +6,7 @@ const demo1 = memo(() => {
         <View>
             <text>demo1</text>
             <text>loc </text>
+            <text>loc </text>
         </View>
     );
 });
